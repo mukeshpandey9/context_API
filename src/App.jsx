@@ -8,7 +8,7 @@ import Profile from "./components/Profile";
 function App() {
   return (
     <>
-      <h1>Welcome </h1>
+      <h1>Hey, Welcome </h1>
       <Login />
       <Profile />
     </>
